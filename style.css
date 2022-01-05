@@ -24,9 +24,9 @@ h2{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(green tomato);
+    background-image: linear-gradient(rgb(128, 9, 0), tomato);
     padding: 10px 40px;
-    color: white;
+    color:white;
     font-weight: 700;
     border-radius: 5px;
 }
